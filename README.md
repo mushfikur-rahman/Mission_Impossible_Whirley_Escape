@@ -1,6 +1,6 @@
-*Mission Impossible: Whirley Escape*
+# **MISSION IMPOSSIBLE: Whirley Escape**
 
-**About the Game:**
+**Description:**
 "Mission Impossible: Whirley Escape" is an exhilarating helicopter game developed using OpenGL and GLUT. Players control a helicopter navigating through space, avoiding obstacles while accumulating points.
 
 **Features:**
@@ -11,26 +11,17 @@
 5. **Sound Effects:** Immersive gaming experience with background "Mission Impossible" theme song.
 
 **Installation:**
-1. **Clone Repository:**
+1. **Install OpenGL:**
+   - **Windows:**
+     - Download and install the OpenGL libraries suitable for your compiler (e.g., freeglut for MinGW).
+     - Set up the necessary environment variables for OpenGL/GLUT.
+   - **Linux (Ubuntu):**
+     ```bash
+     sudo apt-get install mesa-common-dev freeglut3-dev
+     ```
+   - **MacOS:**
+     - OpenGL is included in the macOS system libraries.
+
+2. **Clone Repository:**
 ```bash
 git clone https://github.com/mushfikur-rahman/Mission_Impossible_Whirley_Escape.git
-```
-2. **Compile Source Code:**
-```bash
-cd Mission_Impossible_Whirley_Escape
-gcc -o game main.c -lopengl32 -lglut32 -lglu32 -lm -mwindows -std=c99
-```
-3. **Run the Game:**
-```bash
-./game
-```
-
-Certainly! Here's the updated section with your LinkedIn profile link included:
-
-**Collaborator:**
-- [Mushfikur Rahman](https://www.linkedin.com/in/md-mushfikur-r-114761194) 
-
-**Contact:**
-For more information or contributions, please contact through my Linkedin.
-
-Feel the adrenaline rush and master the art of digital flight playing this awesome game!
