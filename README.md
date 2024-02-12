@@ -25,3 +25,16 @@
 2. **Clone Repository:**
 ```bash
 git clone https://github.com/mushfikur-rahman/Mission_Impossible_Whirley_Escape.git
+
+3. **Compile Source Code:**
+```bash
+cd Mission_Impossible_Whirley_Escape
+gcc -o game main.c -lopengl32 -lglut32 -lglu32 -lm -mwindows -std=c99
+```
+4. **Run the Game:**
+```bash
+./game
+```
+
+**Collaborator:**
+- [Md Mushfikur Rahman](https://www.linkedin.com/in/md-mushfikur-r-114761194) 
