@@ -1,4 +1,4 @@
-**Mission Impossible: Whirley Escape**
+*Mission Impossible: Whirley Escape*
 
 **About the Game:**
 "Mission Impossible: Whirley Escape" is an exhilarating helicopter game developed using OpenGL and GLUT. Players control a helicopter navigating through space, avoiding obstacles while accumulating points.
